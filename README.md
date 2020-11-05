@@ -15,5 +15,5 @@ IOL occurred in 45 patients (21.5%). The recursive feature selection software id
 The authors trained and internally validated a Random Forest-based model that reliably identifies patients at risk for IOL. Machine learning-based prediction models can predict events that were previously judged nearly unpredictable: the use of such prediction models in clinical practice may result in improved patient care and reduced postoperative morbidity and healthcare costs.
 
 <p align="center">
-  <img width="700" height="400" src="https://github.com/valerio-mc/ML-fistola-pituitary/blob/master/Fig3.jpg">
+  <img width="700" src="https://github.com/valerio-mc/ML-fistola-pituitary/blob/master/Fig3.jpg">
 </p>
